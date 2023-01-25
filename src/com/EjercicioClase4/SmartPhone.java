@@ -1,6 +1,6 @@
-package com.EjercicioClase4.herencias;
+package com.EjercicioClase4;
 
-import com.EjercicioClase4.SmartDevice;
+
 
 public class SmartPhone  extends SmartDevice {
    public String paisEnsamblado;

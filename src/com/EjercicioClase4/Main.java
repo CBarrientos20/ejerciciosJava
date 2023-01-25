@@ -1,8 +1,5 @@
 package com.EjercicioClase4;
 
-import com.EjercicioClase4.herencias.SmartPhone;
-import com.EjercicioClase4.herencias.SmartWatch;
-
 public class Main {
     public static void main(String[] args) {
 
